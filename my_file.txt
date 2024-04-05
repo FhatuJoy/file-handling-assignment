@@ -1,0 +1,6 @@
+Hello, world!
+This is a test file.
+123456789
+Appending a new line.
+Another line appended.
+789101112
